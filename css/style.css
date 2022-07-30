@@ -20,6 +20,15 @@
     animation: pipe-animation 2s;
 }
 
+.mario {
+    width: 150px;
+    position: absolute;
+    bottom: 0;
+    animation: jump 500ms ease-out;
+}
+
+.jump
+
 @keyframes pipe-animation {
     from {
         right: 0;
